@@ -1,0 +1,1 @@
+# ThermalTake-Ring-Quad-set-fan-speed-with-hidapitester-
